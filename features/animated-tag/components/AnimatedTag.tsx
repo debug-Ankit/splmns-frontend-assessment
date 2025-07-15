@@ -17,7 +17,7 @@ const AnimatedTag: React.FC<AnimatedTagProps> = ({ id, text, top, left }) => {
     <div
       ref={tagRef}
       key={id}
-      className="absolute px-3 py-1 rounded bg-blue-500 text-sm text-white break-words max-w-[200px]"
+      className="absolute px-3 py-1 rounded bg-white border-0 shadow-none text-sm font-normal text-black tracking-wide break-words max-w-[200px]"
       style={{
         top: 0,
         left: 0,

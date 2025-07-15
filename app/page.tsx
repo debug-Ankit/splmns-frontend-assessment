@@ -25,7 +25,7 @@ const Home = () => {
       {tags.length > 0 && (
         <Link
           href="/animate"
-          className="text-blue-500 hover:underline transition-all mt-6"
+          className="bg-blue-600 text-white px-4 py-2 rounded transition-all mt-6 hover:bg-blue-700"
         >
           Go to Animated Page
         </Link>
