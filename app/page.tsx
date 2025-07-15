@@ -3,8 +3,7 @@
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 
-import TagInputForm from "@/features/animated-tag/components/TagInputForm";
-import TagList from "@/features/animated-tag/components/TagList";
+import { TagInputForm, TagList } from "@/features/animated-tag/components";
 
 import { useAnimatedTagStore } from "@/features/animated-tag/store";
 

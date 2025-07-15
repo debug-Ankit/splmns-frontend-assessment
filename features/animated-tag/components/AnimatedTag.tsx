@@ -2,7 +2,7 @@
 
 import React, { useRef } from "react";
 
-import { useAnimatedTagAnimation } from "@/features/animated-tag/hooks/useAnimatedTagAnimation";
+import { useAnimatedTagAnimation } from "@/features/animated-tag/hooks";
 
 import type { PositionedTagItem } from "@/features/animated-tag/types";
 

@@ -4,8 +4,7 @@ import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 
-import AnimatedTag from "@/features/animated-tag/components/AnimatedTag";
-import Particles from "@/features/animated-tag/components/Particles";
+import { AnimatedTag, Particles } from "@/features/animated-tag/components";
 
 import { useAnimatedTagStore } from "@/features/animated-tag/store";
 
