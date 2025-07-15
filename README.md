@@ -4,7 +4,7 @@ A Next.js project that allows users to input names or phrases, which are then an
 
 Please see live demo [here](https://splmns-frontend-assessment.vercel.app/)
 
-## Features
+## Highlights
 
 - **Tag Input:** Users can enter a name or phrase on the main page.
 - **Tag List:** Recently submitted tags (up to 5) are displayed.
